@@ -1,6 +1,6 @@
 # image-reconstruction
 
-Out of necessity, I had to write some scripts to reconstruct single coil images from mutlichannel acquisition data.
+Out of necessity, I had to write some scripts to reconstruct single coil images from multichannel acquisition data.
 
 
 THE THINGS YOU NEED:
